@@ -89,3 +89,4 @@ If you feel this shift — you're already part of it.
 
 - [LinkedIn](https://www.linkedin.com/in/adricrocha/)
 - [Website](https://www.intelligencenative.ai/)
+- [Book: Refactoring the Firm](https://www.amazon.com/REFACTORING-FIRM-BUILDING-INTELLIGENCE-NATIVE-ORGANIZATIONS-ebook/dp/B0GRSWCB6W)
